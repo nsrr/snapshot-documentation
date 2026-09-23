@@ -69,7 +69,6 @@ Please include the following text in the Acknowledgements:
 ## References
 - SNAPSHOT NSRR GitHub Data Dictionary: https://github.com/nsrr/snapshot-data-dictionary
 - SNAPSHOT NSRR GitHub Documentation: https://github.com/nsrr/snapshot-documentation
-- Primary publication: [Fischer et al., 2020; DOI: 10.1093/sleep/zsz300](https://pubmed.ncbi.nlm.nih.gov/31837266/)
 - NSRR resource citation: [Zhang et al., 2018; DOI: 10.1093/jamia/ocy064](https://pubmed.ncbi.nlm.nih.gov/29860441/)
 
 
