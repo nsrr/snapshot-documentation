@@ -64,7 +64,7 @@ Please include the following text in the Acknowledgements:
 
 > This study was funded by the National Institute of General Medical Sciences (NIGMS), R01-GM105018-01, with additional support from Harvard Catalyst, The Harvard Clinical and Translational Science Center (National Center for Advancing Translational Sciences, National Institutes of Health Award UL 1TR002541), and financial contributions from Harvard University and its affiliated academic healthcare centers.
 
-> The National Sleep Research Resource was supported by the National Heart, Lung, and Blood Institute (R24 HL114473, 75N92019R002).
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 
 ## References
 - SNAPSHOT NSRR GitHub Data Dictionary: https://github.com/nsrr/snapshot-data-dictionary
