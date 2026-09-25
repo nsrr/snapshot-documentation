@@ -8,6 +8,7 @@ Exclusion criteria included <18 or >60 years of age, did not use an Android phon
 
 All research procedures were approved by the Committee on the Use of Humans as Experimental Subjects (COUHES) at the Massachusetts Institute of Technology and the Brigham and Women's Hospital/Partners HealthCare System Human Research Committee, both in the USA.
 
+**Note: All data access requests must be pre-approved by PI Dr Klerman prior to submitting a data request on sleepdata.org. Please <a href="https://redcap.partners.org/redcap/surveys/?s=3M9NXK7HE9KPKCPH" target="_blank">complete the pre-approval survey to get started</a>.**
 
 ## Methods
 Data were collected for each participant in a field study and one inpatient stay during six ~ 1-month cohorts (range 7-55 days, mean =31.5 days) and during one semester-long cohort (range 24-137 days, mean=85.4 days).  Recruitment included paper flyers, email, and verbal communication. Data collection commenced within the first few weeks of the start of the semester and ended before the start of the scheduled mid-semester break.
@@ -22,7 +23,7 @@ Once during the 30-day protocol, participants were admitted to the Brigham and W
 ## Data overview
 Data are stored in 5 excel spreadsheets.
 
-DEMOGRPAPHICS (n=270)\
+DEMOGRAPHICS (n=270)\
 SNAPSHOT_Demographics GPA Chronotype DLMO 
 
 ACTIGRAPHY (n=239)\
