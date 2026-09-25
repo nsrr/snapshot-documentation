@@ -23,19 +23,19 @@ Once during the 30-day protocol, participants were admitted to the Brigham and W
 ## Data overview
 Data are stored in 5 excel spreadsheets.
 
-DEMOGRAPHICS (n=270)\
+DEMOGRAPHICS (n=270)     
 SNAPSHOT_Demographics GPA Chronotype DLMO 
 
-ACTIGRAPHY (n=239)\
+ACTIGRAPHY (n=239)     
 SNAPSHOT_Actigraphy 
 
-WEEKLY QUESTIONNAIRE (n=255)\
+WEEKLY QUESTIONNAIRE (n=255)     
 SNAPSHOT_Weekly questionnaire
 
-MORNING AND EVENING eDIARY (n=268)\
+MORNING AND EVENING eDIARY (n=268)      
 SNAPSHOT_Morning and Evening eDiary
 
-BASELINE (n=268)\
+BASELINE (n=268)     
 SNAPSHOT_Baseline questionnaire
 
 ### Notes on some variables
