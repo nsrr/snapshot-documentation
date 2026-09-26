@@ -4,7 +4,7 @@ The SNAPSHOT study was a long-term observational study developed to measure Slee
 
 323 undergraduate college students participated: 43% freshman, 20% sophomores, 14% juniors, and 23% seniors; ages 18–27 years; and 37% females. Data were collected at one US university over six semesters between 2013 and 2016. Some of the students were recruited as “friends” and didn’t participate in the entire protocol. Consequently, their data are not included in this shared dataset.
 
-Exclusion criteria included < 18 or > 60 years of age, did not use an Android phone, were pregnant, or had traveled more than one-time zone per week before the study and/or had plans of traveling at least one time zone away during the study.
+Exclusion criteria included <18 or >60 years of age, did not use an Android phone, were pregnant, or had traveled more than one-time zone per week before the study and/or had plans of traveling at least one time zone away during the study.
 
 All research procedures were approved by the Committee on the Use of Humans as Experimental Subjects (COUHES) at the Massachusetts Institute of Technology and the Brigham and Women's Hospital/Partners HealthCare System Human Research Committee, both in the USA.
 
