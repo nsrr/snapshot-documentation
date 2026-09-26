@@ -4,7 +4,7 @@ The SNAPSHOT study was a long-term observational study developed to measure Slee
 
 323 undergraduate college students participated: 43% freshman, 20% sophomores, 14% juniors, and 23% seniors; ages 18–27 years; and 37% females. Data were collected at one US university over six semesters between 2013 and 2016. Some of the students were recruited as “friends” and didn’t participate in the entire protocol. Consequently, their data are not included in this shared dataset.
 
-Exclusion criteria included <18 or >60 years of age, did not use an Android phone, were pregnant, or had traveled more than one-time zone per week before the study and/or had plans of traveling at least one time zone away during the study.
+Exclusion criteria included < 18 or > 60 years of age, did not use an Android phone, were pregnant, or had traveled more than one-time zone per week before the study and/or had plans of traveling at least one time zone away during the study.
 
 All research procedures were approved by the Committee on the Use of Humans as Experimental Subjects (COUHES) at the Massachusetts Institute of Technology and the Brigham and Women's Hospital/Partners HealthCare System Human Research Committee, both in the USA.
 
@@ -48,7 +48,7 @@ SNAPSHOT_Baseline questionnaire.xlsx
 - ***Chronotype***  – The µMunich Chronotype Questionnaire (MCTQ) is a self-assessment questionnaire that uses sleep timing as a phase marker to estimate chronotype. The µMunich Chronotype Questionnaire (MCTQ) is a subset of questions from the standard MCTQ. Chronotype is estimated using the midpoint between sleep onset and sleep end on free days (MSF), and corrected for potential oversleep on free days (to compensate for sleep debt accumulated over the workweek, MSFsc), Scores in the dataset are 3 – 11. ([Ghotbi N, Pilz LK, Winnebeck EC, Vetter C, Zerbini G, Lenssen D, Frighetto G, Salamanca M, Costa R, Montagnese S, Roenneberg T. The µMCTQ: An Ultra-Short Version of the Munich ChronoType Questionnaire. J Biol Rhythms. 2020 Feb;35(1):98-110. doi: 10.1177/0748730419886986. Epub 2019 Dec 3. PMID: 31791166](https://pubmed.ncbi.nlm.nih.gov/31791166/))
 - ***DLMO***  – Saliva samples were assayed for melatonin. The dim-light melatonin onset (DLMO) was calculated as the linear interpolated point in time at which salivary melatonin levels crossed a 5 pg/ml threshold. ([McHill AW, Sano A, Barger LK, Phillips AJK, Czeisler CA, Klerman EB. Adaptation of sleep to daylight saving time is slower in people consuming a high-fat diet. iScience. 2024 Aug 5;27(9):110677. doi: 10.1016/j.isci.2024.110677. PMID: 39252974; PMCID: PMC11381764.](https://pubmed.ncbi.nlm.nih.gov/39252974/))
 
-The variable list contains the name of each variable, and information about the original question and coding of responses. 
+The [variable list](:files_path:/original) contains the name of each variable, and information about the original question and coding of responses. 
 
 ## Access and usage restrictions
 
@@ -59,17 +59,17 @@ The SNAPSHOT dataset is only available for non-commercial use.
 When using this dataset, please cite the following:
 
 > [Fischer D, McHill AW, Sano A, et al. Irregular sleep and event schedules are associated with poorer self-reported well-being in US college students. Sleep. 2020;43(6). doi: 10.1093/sleep/zsz300](https://pubmed.ncbi.nlm.nih.gov/31837266/)
-
+> 
 >	[Sano A, Taylor S, McHill AW, et al. Identifying objective physiological markers and modifiable behaviors for self-reported stress and mental health status using wearable sensors and mobile phones: Observational study. J Med Internet Res. 2018;20(6):e9410. doi: 10.2196/jmir.9410](https://pubmed.ncbi.nlm.nih.gov/29884610/)
-
+> 
 > [Lu S, Stone JE, Klerman EB, McHill AW, Barger LK, Robbins R, Fischer D, Sano A, Czeisler CA, Rajaratnam SMW, Phillips AJK. The organization of sleep-wake patterns around daily schedules in college students. Sleep. 2024 Sep 9;47(9):zsad278. doi: 10.1093/sleep/zsad278. PMID: 37930792; PMCID: PMC11381563.](https://pubmed.ncbi.nlm.nih.gov/37930792/)
 
 Please include the following text in the Acknowledgements:
 
 > This study was funded by the National Institute of General Medical Sciences (NIGMS), R01-GM105018-01, with additional support from Harvard Catalyst, The Harvard Clinical and Translational Science Center (National Center for Advancing Translational Sciences, National Institutes of Health Award UL 1TR002541), and financial contributions from Harvard University and its affiliated academic healthcare centers.
-
-> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
 > 
+> The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).\
+
 ## References
 
 - SNAPSHOT NSRR GitHub Data Dictionary: https://github.com/nsrr/snapshot-data-dictionary
