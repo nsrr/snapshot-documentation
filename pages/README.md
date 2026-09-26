@@ -23,7 +23,7 @@ Once during the 30-day protocol, participants were admitted to the Brigham and W
 
 ## Data overview
 
-Data are stored in [5 excel spreadsheets](:files_path:/original). All calendar dates have been removed from the Excel files marked **deidentified**.
+Data are stored in [5 excel spreadsheets](:files_path:/original). All calendar dates have been removed from the Excel files marked **deidentified**. A version of the SNAPSHOT data with shifted calendar dates will be posted in the future.
 
 DEMOGRAPHICS (n=270)     
 SNAPSHOT_Demographics GPA Chronotype DLMO.xlsx
