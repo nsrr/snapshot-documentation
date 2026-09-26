@@ -11,6 +11,7 @@ All research procedures were approved by the Committee on the Use of Humans as E
 **Note: All data access requests must be pre-approved by PI Dr Klerman prior to submitting a data request on sleepdata.org. Please <a href="https://redcap.partners.org/redcap/surveys/?s=3M9NXK7HE9KPKCPH" target="_blank">complete the pre-approval survey to get started</a>.**
 
 ## Methods
+
 Data were collected for each participant in a field study and one inpatient stay during six ~ 1-month cohorts (range 7-55 days, mean =31.5 days) and during one semester-long cohort (range 24-137 days, mean=85.4 days).  Recruitment included paper flyers, email, and verbal communication. Data collection commenced within the first few weeks of the start of the semester and ended before the start of the scheduled mid-semester break.
 Participants wore an actigraphy device (MotionLogger-L, AMI, United States). Participants received emails twice daily that included a link (i.e., URL) to daily morning and evening diaries. They could complete the diaries using computers, tablets, or mobile phones.
 On the morning diary, participants reported behaviors relating to bedtime, naps, removals of the actigraph and mood scales. (Information on actigraph removals was used to clean the actigraphy file and is not shared).
@@ -21,22 +22,23 @@ Participants completed a weekly survey with questions from the Perceived Stress 
 Once during the 30-day protocol, participants were admitted to the Brigham and Women’s Hospital Center for Clinical Investigation Intensive Physiologic Monitoring Unit for an ~16-hour overnight stay to collect hourly salivary melatonin samples. Participants were admitted to a dimly lit (<4 lux) study suite and not allowed to use any personal electronic devices (e.g., computer, or cellphone) to control for the influence of additional lighting. Prior to each saliva collection, participants were asked to remain in a constant posture and not eat or drink any foods for 20 minutes; participants were allowed to move-about freely or sleep between collections. If they were asleep, participants were awakened by research staff immediately prior to saliva collection.
 
 ## Data overview
-Data are stored in 5 excel spreadsheets.
+
+Data are stored in [5 excel spreadsheets](:files_path:/original). All calendar dates have been removed from the Excel files marked **deidentified**.
 
 DEMOGRAPHICS (n=270)     
-SNAPSHOT_Demographics GPA Chronotype DLMO 
+SNAPSHOT_Demographics GPA Chronotype DLMO.xlsx
 
 ACTIGRAPHY (n=239)     
-SNAPSHOT_Actigraphy 
+SNAPSHOT_Actigraphy.xlsx
 
 WEEKLY QUESTIONNAIRE (n=255)     
-SNAPSHOT_Weekly questionnaire
+SNAPSHOT_Weekly questionnaire.xlsx
 
 MORNING AND EVENING eDIARY (n=268)      
-SNAPSHOT_Morning and Evening eDiary
+SNAPSHOT_Morning and Evening eDiary.xlsx
 
 BASELINE (n=268)     
-SNAPSHOT_Baseline questionnaire
+SNAPSHOT_Baseline questionnaire.xlsx
 
 ### Notes on some variables
 - ***GPA*** – GPA was self-reported on a 5-point scale.
@@ -49,10 +51,11 @@ SNAPSHOT_Baseline questionnaire
 The variable list contains the name of each variable, and information about the original question and coding of responses. 
 
 ## Access and usage restrictions
+
 The SNAPSHOT dataset is only available for non-commercial use.
 
-
 ## Citation and acknowledgement
+
 When using this dataset, please cite the following:
 
 > [Fischer D, McHill AW, Sano A, et al. Irregular sleep and event schedules are associated with poorer self-reported well-being in US college students. Sleep. 2020;43(6). doi: 10.1093/sleep/zsz300](https://pubmed.ncbi.nlm.nih.gov/31837266/)
@@ -66,8 +69,9 @@ Please include the following text in the Acknowledgements:
 > This study was funded by the National Institute of General Medical Sciences (NIGMS), R01-GM105018-01, with additional support from Harvard Catalyst, The Harvard Clinical and Translational Science Center (National Center for Advancing Translational Sciences, National Institutes of Health Award UL 1TR002541), and financial contributions from Harvard University and its affiliated academic healthcare centers.
 
 > The National Sleep Research Resource was supported by the U.S. National Institutes of Health, National Heart Lung and Blood Institute (R24 HL114473, 75N92019R002).
-
+> 
 ## References
+
 - SNAPSHOT NSRR GitHub Data Dictionary: https://github.com/nsrr/snapshot-data-dictionary
 - SNAPSHOT NSRR GitHub Documentation: https://github.com/nsrr/snapshot-documentation
 - NSRR resource citation: [Zhang et al., 2018; DOI: 10.1093/jamia/ocy064](https://pubmed.ncbi.nlm.nih.gov/29860441/)
