@@ -21,9 +21,17 @@ Participants completed a weekly survey with questions from the Perceived Stress 
 
 Once during the 30-day protocol, participants were admitted to the Brigham and Women’s Hospital Center for Clinical Investigation Intensive Physiologic Monitoring Unit for an ~16-hour overnight stay to collect hourly salivary melatonin samples. Participants were admitted to a dimly lit (<4 lux) study suite and not allowed to use any personal electronic devices (e.g., computer, or cellphone) to control for the influence of additional lighting. Prior to each saliva collection, participants were asked to remain in a constant posture and not eat or drink any foods for 20 minutes; participants were allowed to move-about freely or sleep between collections. If they were asleep, participants were awakened by research staff immediately prior to saliva collection.
 
+## Data de-identification
+
+All personally identifiable information (PII) has been removed from the data files by the NSRR team.
+
+Each participant's dates were shifted to an earlier calendar year that starts on the same day of the week and has the same leap-year status as the original year, anchored to the baseline survey date. The same offset was applied consistently across all datasets to preserve days of the week and within-participant temporal relationships, while time-only values remained unchanged. Daylight saving time (DST) indicators were derived from the original, unshifted dates using US DST rules: [survey_dst](:variables_path:/survey_dst), [created_dst](:variables_path:/created_dst), [e_created_dst](:variables_path:/e_created_dst), [m_created_dst](:variables_path:/m_created_dst), and [dst](:variables_path:/dst) indicate whether DST was in effect. [dst_change](:variables_path:/dst_change) marks the actigraphy interval in which a clock change occurred (1 = spring forward, -1 = fall back, 0 = no clock change); if the change fell between intervals, the next interval is marked.
+
 ## Data overview
 
-Data are stored in [5 excel spreadsheets](:files_path:/original). All calendar dates have been removed from the Excel files marked **deidentified**. A version of the SNAPSHOT data with shifted calendar dates will be posted in the future.
+The NSRR team de-identified [the SNAPSHOT data](:files_path:/datasets) (as described above), documented the [variable metadata](:variables_path:/), and created [harmonized versions of key covariates](:variables_path:?folder=Harmonized).
+
+The original data are stored in [5 excel spreadsheets](:files_path:/original). All calendar dates have been removed from the Excel files marked **deidentified**.
 
 DEMOGRAPHICS (n=270)     
 SNAPSHOT_Demographics GPA Chronotype DLMO.xlsx
